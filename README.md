@@ -95,4 +95,6 @@ Y si se pulsa al botón de play para entrar en el Game mode de la escena y se va
 
 * **GIF animado de la ejecución**
 
+![Execution gif](GIFs/pr1%20introduccion%20unity.gif)
+
 ![Execution gif](GIFs/screenrecording.gif)
